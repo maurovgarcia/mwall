@@ -12,6 +12,7 @@ $(function() {
         }, 3000);
 
         $( ".form-control" ).val('');
+        $( ".form-control" ).focus();
         $( ".btn-secondary" ).hide();
     }
 
