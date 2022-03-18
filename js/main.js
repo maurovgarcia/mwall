@@ -34,7 +34,6 @@ $(function() {
             });
         }
         iniApp();
-
     });
 
     //Editar un mensaje
